@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Interface", "Autofa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.SqlLogConsole", "Autofac.SqlLogConsole\Autofac.SqlLogConsole.csproj", "{18B19625-30D8-471F-A7BA-435AEEFED886}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyConsole.Integrate", "ManyConsole.Integrate\ManyConsole.Integrate.csproj", "{297C2154-1651-4A04-9960-07B7BC4B8BCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{18B19625-30D8-471F-A7BA-435AEEFED886}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18B19625-30D8-471F-A7BA-435AEEFED886}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18B19625-30D8-471F-A7BA-435AEEFED886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297C2154-1651-4A04-9960-07B7BC4B8BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297C2154-1651-4A04-9960-07B7BC4B8BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297C2154-1651-4A04-9960-07B7BC4B8BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297C2154-1651-4A04-9960-07B7BC4B8BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
