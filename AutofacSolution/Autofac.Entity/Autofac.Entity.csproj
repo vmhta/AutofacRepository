@@ -53,7 +53,7 @@
     <Compile Include="AccountInformation.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DbOperations.cs" />
     <Compile Include="ErrorLog.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
