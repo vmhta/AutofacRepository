@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Entity", "Autofac.Entity\Autofac.Entity.csproj", "{CBBD1649-E6E1-460B-AFC0-5D63A49966FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.Interface", "Autofac.Interface\Autofac.Interface.csproj", "{4D319EB8-18B9-4182-ADD9-C0D44AC284E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofac.SqlLogConsole", "Autofac.SqlLogConsole\Autofac.SqlLogConsole.csproj", "{18B19625-30D8-471F-A7BA-435AEEFED886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CBBD1649-E6E1-460B-AFC0-5D63A49966FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBBD1649-E6E1-460B-AFC0-5D63A49966FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBBD1649-E6E1-460B-AFC0-5D63A49966FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D319EB8-18B9-4182-ADD9-C0D44AC284E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D319EB8-18B9-4182-ADD9-C0D44AC284E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D319EB8-18B9-4182-ADD9-C0D44AC284E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D319EB8-18B9-4182-ADD9-C0D44AC284E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B19625-30D8-471F-A7BA-435AEEFED886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B19625-30D8-471F-A7BA-435AEEFED886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B19625-30D8-471F-A7BA-435AEEFED886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B19625-30D8-471F-A7BA-435AEEFED886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
